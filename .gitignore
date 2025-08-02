@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables (if any)
+.env
+.env.*
+
+# Extension packaging output (if created)
+*.zip
+
+# Node modules (if used later)
+node_modules/
